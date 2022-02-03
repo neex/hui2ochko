@@ -1,2 +1,1 @@
-# hui2ochko
-exploit for CVE-2021-43848
+The code in this repo is a PoC and of very low quality.
